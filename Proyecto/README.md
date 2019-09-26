@@ -18,32 +18,29 @@ $ git clone https://github.com/MaaarcosG/WebSite_Project.git
 Installing requirements:
 
 ```
-$ yarn install
+yarn install
 ```
 ## Usage
 
 ### To compile the code, execute the following command to start the development
 ```
-$ yarn start
+yarn start
 ```
 The project is in the port 8080 http://localhost:8080/
-### Compile to have the project structure
-```
-$ yarn build
-```
-The command generates the files to work on the project
 
 ### ESLint
 ```
-$ yarn lint
+yarn lint
 ```
 To run the ESLint linter built into your application, run the following command, this will allow you to display style errors in your code
 
 ## Tools
-* [React](https://reactjs.org/): JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies
+* [React]: JavaScript library for building user interfaces. [details](https://reactjs.org/)
 * [Babel](https://babeljs.io/): Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
-* [Webpack](https://webpack.js.org/): Webpack is an open-source JavaScript module bundler. Webpack takes modules with dependencies and generates static assets representing those modules.
-* [Eslint](https://eslint.org/): Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines.
+* [Webpack](https://webpack.js.org/): Webpack is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding plugins are included
+* [Eslint](https://eslint.org/): Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines. There are code linters for most programming languages, and compilers sometimes incorporate linting into the compilation process.
+
+
 
 ## License
 Marcos Gutierrez 17909
