@@ -10,9 +10,8 @@ Twitter homepage, official website recreated https://twitter.com/ using react. T
 
 # Table of content
 1. [Installation](#Installation)
-1. [Usage](#Usage)
-1. [Tools](#Tools)
-1. [License](#License)
+2. [Usage](#Usage)
+3. [License](#License)
 
 ## Installation
 Clone the git repository:
