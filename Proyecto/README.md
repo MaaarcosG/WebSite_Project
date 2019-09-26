@@ -22,22 +22,22 @@ $ yarn install
 ```
 ## Usage
 
-### Compiles and hot-reloads for development
+### To compile the code, execute the following command to start the development
 ```
 $ yarn start
 ```
-Local web server will use port 8080 http://localhost:8080/
-### Compiles and minifies for production
+The project is in the port 8080 http://localhost:8080/
+### Compile to have the project structure
 ```
 $ yarn build
 ```
-Command generates /dist folder will be created with the production ready files
+The command generates the files to work on the project
 
-### Lints and fixes files
+### ESLint
 ```
 $ yarn lint
 ```
-Lints and auto fixes the code styling according to the settings set at .eslintrc
+To run the ESLint linter built into your application, run the following command, this will allow you to display style errors in your code
 
 ## Tools
 * [React](https://reactjs.org/): JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies
