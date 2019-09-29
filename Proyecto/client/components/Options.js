@@ -96,7 +96,7 @@ export default class Options extends React.Component {
                 <a href='https://twitter.com/i/flow/signup'>
                 <button style={estiloBotonRegistrate}><strong>Regístrate</strong></button>
                 </a>
-                <a href='https://twitter.com/i/flow/signup'>
+                <a href='https://twitter.com/login'>
                 <button style={estiloBotonIniciarSesion}><strong>Iniciar Sesión</strong></button>
                 </a>
             </div>
